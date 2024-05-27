@@ -1,10 +1,10 @@
-👋 Hi, I'm @AmilcarMflores 
-I'm interested in Python and ML
-🌱 I'm currently learning JS
-I'm looking to collaborate on OSS
-How to reach me amilcarmflores@gmail.com
-😄 Pronouns: He/His
-Fun fact: Fulled by ramen
+- 👋 Hi, I'm @AmilcarMflores 
+- I'm interested in Python and ML
+- 🌱 I'm currently learning JS
+- I'm looking to collaborate on OSS
+- How to reach me amilcarmflores@gmail.com
+- 😄 Pronouns: He/His
+- Fun fact: Fulled by ramen
 
 
 <!--
